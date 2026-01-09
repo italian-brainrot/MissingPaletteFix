@@ -1,11 +1,8 @@
 {
   "required": true,
-  "package": "btpos.mcmods.missingpalettefix.mixin",
+  "package": "com.btpos.missingpalettefix.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [
-    "MHashMapPalette"
-  ],
-  "client": [],
+  "mixins": [],
   "injectors": {
     "defaultRequire": 1
   },

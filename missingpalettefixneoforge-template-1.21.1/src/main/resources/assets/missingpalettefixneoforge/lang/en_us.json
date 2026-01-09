@@ -1,0 +1,13 @@
+{
+  "itemGroup.missingpalettefixneoforge": "Example Mod Tab",
+  "block.missingpalettefixneoforge.example_block": "Example Block",
+  "item.missingpalettefixneoforge.example_item": "Example Item",
+
+  "missingpalettefixneoforge.configuration.title": "MissingPaletteFix-NeoForge Configs",
+  "missingpalettefixneoforge.configuration.section.missingpalettefixneoforge.common.toml": "MissingPaletteFix-NeoForge Configs",
+  "missingpalettefixneoforge.configuration.section.missingpalettefixneoforge.common.toml.title": "MissingPaletteFix-NeoForge Configs",
+  "missingpalettefixneoforge.configuration.items": "Item List",
+  "missingpalettefixneoforge.configuration.logDirtBlock": "Log Dirt Block",
+  "missingpalettefixneoforge.configuration.magicNumberIntroduction": "Magic Number Text",
+  "missingpalettefixneoforge.configuration.magicNumber": "Magic Number"
+}
